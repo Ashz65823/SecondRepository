@@ -1,6 +1,7 @@
 Go to folder->rightclick
 Give Following git commands
 Git clone :copy and paste clone from git respositort
+ls(list of file)
 cd (folder name)
 ls(list of file in folder)
 cat filename(to see content)
